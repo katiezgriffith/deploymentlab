@@ -4,3 +4,8 @@ h1 {
     font-display: auto;
     justify-content: space-around;
 }
+
+#logo {
+    border: red  5px;
+    
+}
