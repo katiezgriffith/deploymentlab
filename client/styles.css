@@ -5,6 +5,10 @@ h1 {
     justify-content: space-around;
 }
 
+
+body {
+    background-image: url("podcast.jpg");
+}
 #logo {
     border: red  5px;
     
