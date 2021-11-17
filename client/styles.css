@@ -8,6 +8,7 @@ h1 {
 
 body {
     background-image: url("podcast.jpg");
+    background-color: #cccccc;
 }
 #logo {
     border: red  5px;
